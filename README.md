@@ -8,7 +8,7 @@ Tableau visualizations can be accessed here: [link to dashboard](https://public.
 
 ### Viz 1: August Peak Hours
 
-![August Peak Hours](Resources/August Peak Hours.PNG)
+![August Peak Hours](Resources/AugustPeakHours.PNG)
 
 
 ## Summray
