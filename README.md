@@ -36,3 +36,9 @@ The visualization shows that regardless of gender, the peak hours remains the sa
 The visualization shows that most users are male subscribers, and most trips are taken on Thursdays.
 
 ## Summary
+We can conclude from the above that:
+- Most trip time are under 20 minutes.
+- Most trips are taken on peak hours on weekdays.
+For more info and further analyze, some addition visualizations could help:
+- We can map out the start and end location for each trip to help move the bikes better.
+- We can create a visualization to understand different behaviour of each age groups.
