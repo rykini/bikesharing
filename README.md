@@ -8,7 +8,11 @@ Tableau visualizations can be accessed here: [link to dashboard](https://public.
 
 ### Viz 1: August Peak Hours
 
-![August Peak Hours](Resources/AugustPeakHours.PNG)
+![AugustPeakHours](Resources/AugustPeakHours.PNG)
+The visualization shows that peak hours in august are 5pm to 7pm.
+
+### Viz 2: Checkout Time for Users
+![CheckoutTimeforUsers](Resources/CheckoutTimeforUsers.PNG)
 
 
 ## Summray
